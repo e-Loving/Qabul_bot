@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from telebot import types
 from datetime import datetime
 
-token = "5033083369:AAGjjfE3Uf5pRbwPHN7mN962WjWjq0oyOFQ"
+token = "<YOUR_TOKEN>"
 bot = telebot.TeleBot(token)
 son = 0
 allstarts = []
